@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap");
+
+* {
+	font-family: "Outfit", sans-serif;
+	box-sizing: border-box;
+	--radius: 20px;
+}
+
+.blue {
+	color: hsl(218, 44%, 22%);
+	font-size: 26px;
+	font-weight: 700;
+	margin-bottom: 0;
+}
+
+p {
+	text-align: center;
+	color: hsl(216, 15%, 48%);
+	font-weight: 400;
+}
+
+p:last-of-type {
+	margin: 20px;
+	font-size: 15px;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+	width: min-content;
+	padding: 20px;
+	margin: auto;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: var(--radius);
+    box-shadow: -5px 5px 20px 0px rgba(0, 0, 0, 0.233);
+}
+
+body {
+	background-color: hsl(212, 45%, 89%);
+}
+
+.image {
+	height: 300px;
+	width: 300px;
+	background-image: url(images/image-qr-code.png);
+	background-size: contain;
+	border-radius: var(--radius);
+}
