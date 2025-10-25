@@ -44,7 +44,7 @@ body {
 .image {
 	height: 300px;
 	width: 300px;
-	background-image: url(images/image-qr-code.png);
+	background-image: url(image-qr-code.png);
 	background-size: contain;
 	border-radius: var(--radius);
 }
