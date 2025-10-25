@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-I plan on getting my positioning skills better, and also the usage of units other than the "px"
+- I plan on getting my positioning skills better, and also the usage of units other than the "px"
 
 ## Author
 
