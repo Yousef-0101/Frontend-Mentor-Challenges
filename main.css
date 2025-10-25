@@ -41,10 +41,7 @@ body {
 	background-color: hsl(212, 45%, 89%);
 }
 
-.image {
-	height: 300px;
+img {
 	width: 300px;
-	background-image: url(image-qr-code.png);
-	background-size: contain;
 	border-radius: var(--radius);
 }
