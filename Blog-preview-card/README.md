@@ -17,6 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Screenshot](./assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot-hover.png)
 
 ### Links
 
@@ -29,6 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5 Semantic Elements
 - CSS custom properties
+- Flexbox
 
 ### Continued development
 
