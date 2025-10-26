@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-links-profile-OrA_XccuSo)
+- Live Site URL: [Site](https://social-links-profile-sage-seven.vercel.app/)
 
 ## My process
 
