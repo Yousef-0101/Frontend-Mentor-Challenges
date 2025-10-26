@@ -16,12 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot](/images/screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [HTML file](https://github.com/Yousef-0101/QR-code-component/blob/main/index.html)
-- Live Site URL: [Site](https://qr-code-component-olive-five.vercel.app/)
+- Solution URL: [HTML file](https://github.com/Yousef-0101/Frontend-Mentor-Challenges/blob/main/QR-code-component/index.html)
+- Live Site URL: [Site](https://qr-code-component-steel-nu-24.vercel.app/)
 
 ## My process
 
