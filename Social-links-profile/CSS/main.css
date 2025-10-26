@@ -1,0 +1,87 @@
+@import url(../assets/fonts/Inter-VariableFont_slnt\wght.ttf);
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1, p, a {
+	font-family: "Inter", sans-serif;
+}
+
+h1, a, .work {
+	color: hsl(0, 0%, 100%);
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: 700;
+}
+
+img {
+	width: 90px;
+	margin-top: 30px;
+	border-radius: 50%;
+}
+
+.name {
+	margin-top: 15px;
+	margin-bottom: -2px;
+	font-size: 22px;
+}
+
+.address {
+	font-size: 14px;
+	font-weight: 600;
+	color: hsl(75, 94%, 57%);
+}
+
+.work {
+	font-size: 14px;
+	opacity: 80%;
+	margin: 10px 0;
+}
+
+a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: 700;
+	width: 80%;
+	height: 50px;
+	background-color: hsl(0, 0%, 20%);
+	border-radius: 10px;
+	transition-duration: 0.2s;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	background-color: hsl(0, 0%, 8%);
+}
+
+main {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-flow: column wrap;
+	width: 400px;
+	height: 600px;
+	background-color: hsl(0, 0%, 12%);
+	border-radius: 10px;
+}
+
+a:last-of-type {
+	margin-bottom: 32px;
+}
+
+a:hover {
+	color: hsl(0, 0%, 8%);
+	background-color: hsl(75, 94%, 57%);
+}
