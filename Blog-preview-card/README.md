@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [HTML file]()
-- Live Site URL: [Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-hOdxnBWli8)
+- Live Site URL: [Site](https://blog-preview-card-nine-tau.vercel.app/)
 
 ## My process
 
@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Continued development
 
-- I plan on getting better in using various units other than the "px"
+- I plan on getting better at using various units other than the "px"
 
 ## Author
 
