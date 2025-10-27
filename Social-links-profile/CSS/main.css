@@ -81,7 +81,7 @@ a:last-of-type {
 	margin-bottom: 32px;
 }
 
-a:hover {
+a:hover, a:focus {
 	color: hsl(0, 0%, 8%);
 	background-color: hsl(75, 94%, 57%);
 }
